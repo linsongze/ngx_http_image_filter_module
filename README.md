@@ -2,8 +2,10 @@
 
 ## Introduction
 
-The module   adjust image orientation automatically when  resize image .
+
+The module   adjust image orientation automatically when  resize image base http://nginx.org/en/docs/http/ngx_http_image_filter_module.html.
 There is a conflict between it and http://nginx.org/en/docs/http/ngx_http_image_filter_module.html.
+
 
 ## Installation
 ### install dependencies
